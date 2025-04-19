@@ -1,12 +1,72 @@
-# React + Vite
+# 🌶️ Shimlamirch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Shimlamirch** is a modern, immersive digital experience built with **React**, **GSAP**, and **Locomotive Scroll**.  
+It showcases smooth scrolling, dynamic animations, and responsive design — all crafted to deliver a seamless and artistic experience.
+> A creative web experience built with **React**, **GSAP**, and **Locomotive Scroll**.  
+> Smooth, scroll-driven animations with a modern aesthetic.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[🔗 View Live Site](https://shimlamirch.onrender.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- ⚛️ [React](https://reactjs.org/) – For creating modular UI components.
+- 🎞 [GSAP](https://greensock.com/gsap/) – For animations and scroll-based transitions.
+- 🌀 [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) – For smooth scrolling and parallax effects.
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.
+- ⚡️ [Vite](https://vitejs.dev/) – Fast development build tool.
+
+---
+
+## ✨ Features
+
+- Smooth scrolling with Locomotive Scroll
+- Parallax and scroll-based animations via GSAP
+- Clean and modular React components
+- Easy to customize and extend
+
+---
+
+📁 Folder Structure
+--
+Shimlamirch/
+├── public/               # Static assets
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── assets/           # Images and media
+│   ├── styles/           # Tailwind + custom styles
+│   ├── App.jsx           # Main app structure
+│   └── main.jsx          # Entry point
+├── package.json          # Project config and scripts
+└── README.md             # Documentation
+
+🧰 Scripts
+--
+npm run dev – Start development server
+npm run build – Build for production
+npm run preview – Preview the production build
+
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/rou-nak-cloud/Shimlamirch.git
+cd Shimlamirch
+
+# 2. Install dependencies
+npm install
+# or
+yarn install
+
+# 3. Start the development server
+npm run dev
+# or
+yarn dev
+
+Then open http://localhost:5173 in your browser.
+
+
