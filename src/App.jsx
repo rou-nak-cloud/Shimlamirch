@@ -131,7 +131,7 @@ function App() {
               Despite the name Shimla-mirch, it’s not originally from Shimla or anywhere in India.
               The plant is native to Central and South America. It was brought to the rest of the world after the Columbian Exchange (post-15th century) when explorers like Columbus introduced new crops to Europe and Asia.
               </p>
-              <p className="text-md mt-10 uppercase">sabzi</p>
+              <p className="text-md mt-10 uppercase">Click on Shimlamirch to get more Mirchi Flavour!!</p>
             </div>
             <div className="w-full absolute bottom-[-75px] left-0">
             <h1
